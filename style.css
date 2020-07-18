@@ -11,13 +11,14 @@ input{
   margin-right: 5px;
   border-radius: 5px;
   padding:5px;
+  width: 300px;
 }
 button{
   outline:none;
   border:none;
-background: #fff;
-border-radius: 5px;
-padding: 8px;
+  background: #fff;
+  border-radius: 5px;
+  padding: 8px 20px;
 }
 ul {
   padding: 0;
@@ -29,6 +30,7 @@ li {
   margin: 10px;
   background-color:rgba(61, 120, 175, 0.411);
   border-radius: 10px;
+  width:500px;
 }
 form {
   margin: 10px;
