@@ -28,8 +28,9 @@ li {
   list-style-type: none;
   padding: 10px;
   margin: 10px;
-  background-color:rgba(61, 120, 175, 0.411);
+  background-color:rgba(248, 59, 185, 0.863);
   border-radius: 10px;
+  color:#fff;
   width:500px;
 }
 form {
